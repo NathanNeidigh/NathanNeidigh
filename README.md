@@ -1,20 +1,32 @@
 # Hello, I'm Nathan Neidigh
 
-I'm a freshman Engineering student at Walla Walla University with a passion for Robotics and Computer Science. Currently studying in Washington but based in Massachusetts, I thrive on serving my loved ones and bringing smiles to others.
+I'm a freshman Engineering student at Walla Walla University passionate about Robotics and Computer Science. Currently studying in Washington but based in Massachusetts, I thrive on serving my loved ones and bringing smiles to others.
 
-🔭 **Currently Working On:** [Brief Description of Your Current Projects/Work]
+🔭 **Currently Working On:**
+- Independent Research Project:
+> This project focuses on developing a method of robot localization and pathing in dynamic environments and illustrates that method through a robotic demonstration. Research will be conducted on ways to localize robots in dynamic environments and how to generate real-time pathing for the robot. This will likely utilize machine learning and AI and culminate in a white paper. The working idea for the demonstration is an autonomous go-kart racing against a human driver.
 
-🌱 **Currently Learning:** [What you are learning or improving upon]
+🌱 **Currently Learning:**
+- localization strategies
+- Mechanics
 
-💬 **Ask Me About:** [Your Areas of Expertise/Interest]
+💬 **Ask Me About:**
+- Computer Science
+- Robotics
 
-📫 **How to Reach Me:** Phone Number: (508) 365-8377 LinkedIn: [profile](https://www.linkedin.com/in/nathan-neidigh/)
+📫 **How to Reach Me:** 
+- Phone Number: (508) 365-8377
+- Email: Nathan.Neidigh@Outlook.com
+- LinkedIn: [profile](https://www.linkedin.com/in/nathan-neidigh/)
 
-⚡ **Fun Fact:** [Interesting Fact about Yourself or Something Unique]
+⚡ **Fun Fact:**
+- I am the Principal Trombonist in my University's Symphony Orchestra.
+- My favorite book series is *Wheel of Time by Robert Jordan.
+- I love to go rock climbing.
 
 ---
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=NathanNeidigh&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact)](https://github.com/your_username/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanNeidigh&layout=compact)](https://github.com/NathanNeidigh/github-readme-stats)
 
