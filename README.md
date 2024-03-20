@@ -28,6 +28,5 @@ I'm a freshman Engineering student at Walla Walla University passionate about Ro
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=NathanNeidigh&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanNeidigh&layout=compact)](https://github.com/NathanNeidigh/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanNeidigh&layout=compact&theme=radical)](https://github.com/NathanNeidigh/github-readme-stats)
 
