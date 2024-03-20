@@ -4,7 +4,9 @@ I'm a freshman Engineering student at Walla Walla University passionate about Ro
 
 🔭 **Currently Working On:**
 - Independent Research Project:
-> This project focuses on developing a method of robot localization and pathing in dynamic environments and illustrates that method through a robotic demonstration. Research will be conducted on ways to localize robots in dynamic environments and how to generate real-time pathing for the robot. This will likely utilize machine learning and AI and culminate in a white paper. The working idea for the demonstration is an autonomous go-kart racing against a human driver.
+> I am collaborating with Joseph Pennock on this project which focuses on developing a method of robot localization and pathing in dynamic environments and illustrates that method through a robotic demonstration. Research will be conducted on ways to localize robots in dynamic environments and how to generate real-time pathing for the robot. This will likely utilize machine learning and AI and culminate in a white paper. The working idea for the demonstration is an autonomous go-kart racing against a human driver.
+- PharoGs Project:
+> Under the advisement of Prof. James Foster, I am working on an open-source project to host Pharo Smalltalk in a GemStone environment.
 
 🌱 **Currently Learning:**
 - localization strategies
