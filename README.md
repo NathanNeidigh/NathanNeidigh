@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hello, I'm Nathan Neidigh
 
-<!--
-**NathanNeidigh/NathanNeidigh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a freshman Engineering student at Walla Walla University with a passion for Robotics and Computer Science. Currently studying in Washington but based in Massachusetts, I thrive on serving my loved ones and bringing smiles to others.
 
-Here are some ideas to get you started:
+🔭 **Currently Working On:** [Brief Description of Your Current Projects/Work]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Currently Learning:** [What you are learning or improving upon]
+
+💬 **Ask Me About:** [Your Areas of Expertise/Interest]
+
+📫 **How to Reach Me:** Phone Number: (508) 365-8377 LinkedIn: [profile](https://www.linkedin.com/in/nathan-neidigh/)
+
+⚡ **Fun Fact:** [Interesting Fact about Yourself or Something Unique]
+
+---
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact)](https://github.com/your_username/github-readme-stats)
+
