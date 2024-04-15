@@ -19,7 +19,6 @@ I'm a freshman Engineering student at Walla Walla University passionate about Ro
 - Robotics
 
 📫 **How to Reach Me:** 
-- Phone Number: (508) 365-8377
 - Email: Nathan.Neidigh@Outlook.com
 - LinkedIn: [profile](https://www.linkedin.com/in/nathan-neidigh/)
 
