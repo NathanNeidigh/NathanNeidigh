@@ -3,20 +3,20 @@
 I'm a freshman Engineering student at Walla Walla University passionate about Robotics and Computer Science. Currently studying in Washington but based in Massachusetts, I thrive on serving my loved ones and bringing smiles to others.
 
 🔭 **Currently Working On:**
-- Independent Research Project:
-> I am collaborating with Joseph Pennock on this project which focuses on developing a method of robot localization and pathing in dynamic environments and illustrates that method through a robotic demonstration. Research will be conducted on ways to localize robots in dynamic environments and how to generate real-time pathing for the robot. This will likely utilize machine learning and AI and culminate in a white paper. The working idea for the demonstration is an autonomous go-kart racing against a human driver.
-- PharoGs Project:
-> Under the advisement of Prof. James Foster, I am working on an open-source project to host Pharo Smalltalk in a GemStone environment.
-- Revvity Signals Report Generator Suite
-> Creating a suite of software solutions for generating reports. Created scripts that generate a report that tracks scientist productivity, current chemical inventory status, expired chemicals, and exports a PDF for each experiment for a given search query.
+- SCAR System:
+> In collaboration with my roommate, we are working on an autonomous RC car that will race around a track faster than a human. My specific role in this project is to create the control system and all the software for the car. The software will be written using ROS2 and some kind of filter, probably the Extended Kalman Filter (EKF). My first deliverable will be a simulation of the car racing in CARLA.
+- Acquire AI:
+> I am working on a CFR algorithm for the board game "Acquire" so that I can win a bet and learn more about reinforcement learning.
 
 🌱 **Currently Learning:**
-- localization strategies
-- Mechanics
+- ROS2 for control of an autonomous RC car
+- Kalman Filter for optimal control and state estimation
+- Counterfactual Regret minimization (CFR) for creating an AI for the board game "Acquire"
 
 💬 **Ask Me About:**
-- Computer Science
 - Robotics
+- Mechatronics
+- Computer Science
 
 📫 **How to Reach Me:** 
 - Email: Nathan.Neidigh@Outlook.com
@@ -25,7 +25,7 @@ I'm a freshman Engineering student at Walla Walla University passionate about Ro
 ⚡ **Fun Fact:**
 - I am the Principal Trombonist in my University's Symphony Orchestra.
 - My favorite book series is *Wheel of Time by Robert Jordan.
-- I love to go rock climbing.
+- I love to go rock climbing!
 
 ---
 
