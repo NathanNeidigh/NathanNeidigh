@@ -1,29 +1,29 @@
 # Hello, I'm Nathan Neidigh
 
-I'm a Mechanical and Computer Engineering student at Walla Walla University passionate about Control Systems and Physics. Currently studying in Washington but based in Massachusetts, I thrive on serving my loved ones and bringing smiles to others.
+I'm an Electrical and Computer Engineering student at Walla Walla University passionate about Radar and Physics. Currently studying in Washington but based in Massachusetts, I thrive on serving my loved ones and bringing smiles to others.
 
 🔭 **Currently Working On:**
-- Project ARP:
-> In collaboration with Joseph Pennock, we are working on an autonomous RC car that will race around a track faster than if controlled by a human. My specific role in this project is to create the control system and all the software for the car. The software will be written using ROS2 and some kind of filter, probably the Extended Kalman Filter (EKF). My first deliverable will be a simulation of the car racing in AirSim.
+- Dare to Radar:
+> In collaboration with Seth Connell, we are currently working on an FMCW Doppler line-array radar to detect humans and cars from our backyard as a Capstone project.
 - Acquire AI:
 > I am working on a CFR algorithm for the board game "Acquire" so that I can win a bet and learn more about reinforcement learning.
 
 🌱 **Currently Learning:**
-- ROS2 for control of an autonomous RC car
-- Kalman Filter for optimal control and state estimation
+- Radar
+- Electromagnetics
 - Counterfactual Regret minimization (CFR) for creating an AI for the board game "Acquire"
 
 💬 **Ask Me About:**
-- Control Systems
-- Mechatronics
-- Computer Science
+- Radar
+- Electromagnetics
+- Linux Ricing
 
 📫 **How to Reach Me:** 
 - Email: Nathan.Neidigh@Outlook.com
 - LinkedIn: [profile](https://www.linkedin.com/in/nathan-neidigh/)
 
 ⚡ **Fun Fact:**
-- I am the Principal Trombonist in my University's Symphony Orchestra.
+- I am the Principal Trombonist in my University's Symphony Orchestra, Wind Symphony, and Big Band.
 - My favorite book series is *Wheel of Time by Robert Jordan.
 - I love to go rock climbing!
 
